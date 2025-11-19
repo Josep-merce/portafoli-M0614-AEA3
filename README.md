@@ -16,7 +16,7 @@ Aquesta és una pàgina web estàtica simple que serveix com a portafoli persona
 Aquest projecte està sent desenvolupat per:
 
 * **[Josep Dominguez Propietari]** - https://github.com/Josep-merce
-* **[Josep Dominguez Colaborador]** - https://github.com/Collaborador-Josep
+* **[Josep Dominguez Col·laborador]** - https://github.com/Collaborador-Josep
 
 ---
 
