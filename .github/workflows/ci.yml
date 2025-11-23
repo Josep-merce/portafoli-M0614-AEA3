@@ -3,7 +3,8 @@ name: Comprovació de Codi (CI)
 # QUAN s'ha d'executar?
 on:
   push:
-    branches: [ "main" ]
+    # Afegim la teva branca a la llista permesa:
+    branches: [ "main", "ci/workflow" ] 
   pull_request:
     branches: [ "main" ]
 
